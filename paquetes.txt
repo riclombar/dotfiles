@@ -1,3 +1,4 @@
+acpilight
 alsa-utils
 autorandr
 bash
@@ -44,6 +45,7 @@ gnome-screenshot
 google-chrome
 grep
 grub
+grub-customizer
 gtk-engines
 gtk-theme-flat-color-git
 gtk-theme-shades-of-gray
@@ -51,12 +53,19 @@ gzip
 hack-font-ligature-nerd-font-git
 i3-gaps
 i3status
+indicator-stickynotes
 iproute2
 iputils
+kcc
 leafpad
 lib32-mesa
+lib32-nvidia-utils
 licenses
+lightdm
+lightdm-gtk-greeter
+lightdm-settings
 linux-firmware
+linux-lts
 linux-zen
 linux-zen-headers
 lvm2
@@ -81,6 +90,10 @@ ntfs-3g
 numix-circle-icon-theme-git
 numix-cursor-theme
 numix-square-icon-theme
+numlockx
+nvidia
+openbox
+optimus-manager-qt
 otf-code-new-roman
 otf-fantasque-sans-mono
 pacman
@@ -105,6 +118,7 @@ rxvt-unicode
 sed
 shadow
 siji-git
+steam
 sudo
 system-san-francisco-font-git
 systemd
@@ -169,7 +183,6 @@ xorg-setxkbmap
 xorg-smproxy
 xorg-x11perf
 xorg-xauth
-xorg-xbacklight
 xorg-xcmsdb
 xorg-xcursorgen
 xorg-xdpyinfo
